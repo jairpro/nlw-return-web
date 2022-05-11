@@ -3,9 +3,11 @@ Feedback Widget - Web
 
 ### Tecnologias:
 [Vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project) | 
-[Tailwind CSS](https://tailwindcss.com/docs/installation) | 
+[Tailwind CSS](https://tailwindcss.com/docs/installation) |
+[@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) |
 [Phosphor](https://phosphoricons.com/) | 
-[Headless UI](https://headlessui.dev/react/popover)
+[Headless UI](https://headlessui.dev/react/popover) | 
+[html2canvas](https://www.npmjs.com/package/html2canvas)
 
 ### Material complementar:
 [Layout](https://www.figma.com/file/sk4LIu56Evs9fhFFYce6NT/Feedback-Widget-(Community)?node-id=100%3A2114) | 
@@ -13,7 +15,7 @@ Feedback Widget - Web
 [Trilhas*](https://efficient-sloth-d85.notion.site/NLW-Return-4e1cf60ece8f42d08254810f7bb14401) | 
 [Impulse*](https://efficient-sloth-d85.notion.site/Impulse-58f2daadb8e1433894420cbc57571087)
 
-### Vídeos*
+### Vídeos*:
 [Aula 1](https://www.youtube.com/watch?v=dCb4nMEyH_4) | 
 [Aula 2](https://www.youtube.com/watch?v=CbY7TA5y5aU) | 
 [Aula 3](https://www.youtube.com/watch?v=bm2dnsPqcek) | 
