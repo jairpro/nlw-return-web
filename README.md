@@ -3,6 +3,7 @@ Feedback Widget - Web
 
 ### Tecnologias:
 [Vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project) | 
+[Vite Env](https://vitejs.dev/guide/env-and-mode.html) | 
 [Tailwind CSS](https://tailwindcss.com/docs/installation) |
 [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) |
 [Phosphor](https://phosphoricons.com/) | 
